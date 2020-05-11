@@ -1,0 +1,13 @@
+.cta-atas {
+  animation: 1s infinite beatHeart;
+}
+
+@keyframes beatHeart {
+    
+  0% {
+    transform: scale(1);
+  }
+  25% {
+    transform: scale(1.1);
+  }
+}
